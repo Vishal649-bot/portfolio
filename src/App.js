@@ -15,7 +15,7 @@ function App() {
                     <Nav />
                     <Section />
                     <Main />
-                    <Experience />
+                    {/* <Experience /> */}
                     <Projects />
                     <ContactUs />
                 </div>
